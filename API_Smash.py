@@ -42,6 +42,42 @@ Smash = [
         "name":"Kirby",
         "saga":"Kirby"
     },
+    {
+        "id":7,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhIGjb70rv4U8O-3maCR9V5-nLLkE6jUgSgQ&s",
+        "name":"Fox",
+        "saga":"Star Fox"
+    },
+    {
+        "id":8,
+        "img":"https://images.wikidexcdn.net/mwuploads/esssbwiki/9/93/latest/20180613003458/Pikachu_SSBU.png",
+        "name":"Pikachu",
+        "saga":"Pokemon"
+    },
+    {
+        "id":9,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSNQ3DrB8mxh_HKGYiAmacS_qtRrLmlDqggIg&s",
+        "name":"Luigi",
+        "saga":"Super Mario"
+    },
+    {
+        "id":10,
+        "img":"https://images.wikidexcdn.net/mwuploads/esssbwiki/thumb/8/82/latest/20230410033103/Ness_SSBU.png/1200px-Ness_SSBU.png",
+        "name":"Ness",
+        "saga":"Mother (Earthbound)"
+    },
+    {
+        "id":11,
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsn0Rv24BkiUrjcbSgsOSa5VyuDZAf2FDaNQ&s",
+        "name":"Capitan Falcon",
+        "saga":"F-Zero"
+    },
+    {
+        "id":12,
+        "img":"https://images.wikidexcdn.net/mwuploads/esssbwiki/6/6a/latest/20180613003528/Jigglypuff_SSBU.png",
+        "name":"jigglypuff",
+        "saga":"Pokemon"
+    },
 ]
 
 for Character in Smash:
