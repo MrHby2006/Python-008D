@@ -37,12 +37,12 @@ def menu():
         elif opcion == "2":
             while True:
                 try:
-                    anio_min = int(input("Ingrese año mínimo: "))
-                    anio_max = int(input("Ingrese año máximo: "))
+                    min = int(input("Ingrese año mínimo: "))
+                    max = int(input("Ingrese año máximo: "))
                     break
                 except ValueError:
                     print("Debe ingresar valores enteros!!")
-            busqueda_anio(anio_min, anio_max)
+            busqueda_anio(min, max)
 
         elif opcion == "3":
             while True:
